@@ -1,4 +1,4 @@
-# 2번. 암호문 (정규표현식)
+# 01. 자격 증명 (정규표현식)
 
 def credentials(data):
   result = ''
