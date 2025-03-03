@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1a35454-bf2e-481c-8c96-a5ebe53aa2cf" name="변경" comment="Feat: 1번. 자격증명 (요구사항 구현)" />
+    <list default="true" id="c1a35454-bf2e-481c-8c96-a5ebe53aa2cf" name="변경" comment="Feat: 1번. 자격증명 (요구사항 구현)">
+      <change afterPath="$PROJECT_DIR$/selecting_starters_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credentials_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/credentials_01.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yuminc03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yuminc03/inflearn-python-algorithm-best-10.git&quot;,
+    &quot;accountId&quot;: &quot;6b6deff7-9655-4ad5-afbe-cd6d073358de&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -39,8 +55,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.credentials_01.executor": "Run",
+    "Python.selecting_starters_02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/github/inflearn-python-algorithm-best-10",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -61,6 +79,15 @@
       <option name="presentableId" value="Default" />
       <updated>1739690034374</updated>
     </task>
+    <task id="LOCAL-00001" summary="Feat: 1번. 자격증명 (요구사항 구현)">
+      <option name="closed" value="true" />
+      <created>1739691349291</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739691349291</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat: 1번. 자격증명 (요구사항 구현)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: 1번. 자격증명 (요구사항 구현)" />
   </component>
 </project>

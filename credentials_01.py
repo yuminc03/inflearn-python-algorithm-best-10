@@ -1,3 +1,5 @@
+# 2번. 암호문 (정규표현식)
+
 def credentials(data):
   result = ''
   for i in data:
